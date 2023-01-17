@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "homepage": "https://veto1024.github.io/ccd-react-booking",
+  "homepage": "https://booking.contradance.org",
   "description": "CCD Booking page react script",
   "dependencies": {
     "@date-io/moment": "^2.16.1",
@@ -39,7 +39,7 @@
   },
   "scripts": {
     "predeploy": "npm run build:prod",
-    "deploy": "gh-pages -d build:prod",
+    "deploy": "gh-pages -d build",
     "start": "HOST=ccd.lndo.site PORT=3000 react-scripts start",
     "build": "echo \"Please use build:dev or build:prod \" && exit 1",
     "test": "react-scripts test",
