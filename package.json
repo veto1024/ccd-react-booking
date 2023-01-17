@@ -1,9 +1,9 @@
 {
-  "name": "booking",
+  "name": "ccd-react-booking",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "homepage": "https://veto1024.github.io/ccd_booking",
+  "homepage": "https://veto1024.github.io/ccd-react-booking",
   "description": "CCD Booking page react script",
   "dependencies": {
     "@date-io/moment": "^2.16.1",
